@@ -87,6 +87,8 @@ Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with 
 - [Midjourney](https://www.midjourney.com) - AI image generation.
 - [Stable Diffusion](https://stability.ai) - Open source image generation.
 
+- [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old/damaged photos — scratch repair, fading fix, B&W colorization.
+
 ## Video Generation
 
 - [Descript](https://www.descript.com) - AI video and audio editing.
