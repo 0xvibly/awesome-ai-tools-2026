@@ -2,7 +2,7 @@
 
 > A curated list of the best AI tools, models, and resources in 2026.
 
-Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with its live catalog. Last updated 2026-05-25.
+Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with its live catalog. Last updated 2026-06-01.
 
 ## Contents
 
@@ -144,25 +144,25 @@ Top models ranked by benchmark score. See the [live leaderboard](https://whatstr
 | Rank | Model | Provider | Score |
 | --- | --- | --- | --- |
 | 1 | Claude Mythos Preview | Anthropic | 99 |
-| 2 | Gemini 3.1 Pro | Google | 92 |
-| 3 | Qwen3.7 Max | Alibaba | 92 |
-| 4 | GPT-5.5 | OpenAI | 91 |
-| 5 | GPT-5.4 Pro | OpenAI | 91 |
-| 6 | Claude Opus 4.7 (Adaptive) | Anthropic | 90 |
+| 2 | Claude Opus 4.8 | Anthropic | 93 |
+| 3 | Gemini 3.1 Pro | Google | 92 |
+| 4 | Qwen3.7 Max | Alibaba | 92 |
+| 5 | GPT-5.5 | OpenAI | 91 |
+| 6 | GPT-5.4 Pro | OpenAI | 91 |
 | 7 | Gemini 3 Pro Deep Think | Google | 90 |
 | 8 | Grok 4.1 | xAI | 90 |
 | 9 | GPT-5.4 | OpenAI | 89 |
-| 10 | DeepSeek V4 Pro (Max) | DeepSeek | 88 |
-| 11 | Claude Opus 4.6 | Anthropic | 87 |
-| 12 | Gemini 3.5 Flash | Google | 87 |
+| 10 | Claude Opus 4.6 | Anthropic | 87 |
+| 11 | Gemini 3.5 Flash | Google | 87 |
+| 12 | DeepSeek V4 Pro (Max) | DeepSeek | 87 |
 | 13 | GPT-5.3 Codex | OpenAI | 86 |
-| 14 | Kimi K2.6 | Moonshot AI | 85 |
-| 15 | Claude Sonnet 4.6 | Anthropic | 83 |
-| 16 | DeepSeek V4 Pro (High) | DeepSeek | 83 |
-| 17 | o1-preview | OpenAI | 83 |
-| 18 | GLM-5.1 | Z.AI | 82 |
-| 19 | Gemini 3 Pro | Google | 81 |
-| 20 | GLM-5 (Reasoning) | Z.AI | 81 |
+| 14 | Claude Opus 4.7 (Adaptive) | Anthropic | 85 |
+| 15 | Kimi K2.6 | Moonshot AI | 85 |
+| 16 | Claude Sonnet 4.6 | Anthropic | 83 |
+| 17 | DeepSeek V4 Pro (High) | DeepSeek | 83 |
+| 18 | o1-preview | OpenAI | 83 |
+| 19 | GLM-5.1 | Z.AI | 82 |
+| 20 | Gemini 3 Pro | Google | 81 |
 
 ## Head-to-Head Comparisons
 
