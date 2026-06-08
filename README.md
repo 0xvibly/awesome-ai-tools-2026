@@ -2,7 +2,7 @@
 
 > A curated list of the best AI tools, models, and resources in 2026.
 
-Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with its live catalog. Last updated 2026-06-01.
+Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with its live catalog. Last updated 2026-06-08.
 
 ## Contents
 
@@ -144,10 +144,10 @@ Top models ranked by benchmark score. See the [live leaderboard](https://whatstr
 | Rank | Model | Provider | Score |
 | --- | --- | --- | --- |
 | 1 | Claude Mythos Preview | Anthropic | 99 |
-| 2 | Claude Opus 4.8 | Anthropic | 93 |
+| 2 | Claude Opus 4.8 | Anthropic | 95 |
 | 3 | Gemini 3.1 Pro | Google | 92 |
-| 4 | Qwen3.7 Max | Alibaba | 92 |
-| 5 | GPT-5.5 | OpenAI | 91 |
+| 4 | GPT-5.5 | OpenAI | 91 |
+| 5 | Qwen3.7 Max | Alibaba | 91 |
 | 6 | GPT-5.4 Pro | OpenAI | 91 |
 | 7 | Gemini 3 Pro Deep Think | Google | 90 |
 | 8 | Grok 4.1 | xAI | 90 |
@@ -157,7 +157,7 @@ Top models ranked by benchmark score. See the [live leaderboard](https://whatstr
 | 12 | DeepSeek V4 Pro (Max) | DeepSeek | 87 |
 | 13 | GPT-5.3 Codex | OpenAI | 86 |
 | 14 | Claude Opus 4.7 (Adaptive) | Anthropic | 85 |
-| 15 | Kimi K2.6 | Moonshot AI | 85 |
+| 15 | Kimi K2.6 | Moonshot AI | 84 |
 | 16 | Claude Sonnet 4.6 | Anthropic | 83 |
 | 17 | DeepSeek V4 Pro (High) | DeepSeek | 83 |
 | 18 | o1-preview | OpenAI | 83 |
