@@ -2,7 +2,7 @@
 
 > A curated list of the best AI tools, models, and resources in 2026.
 
-Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with its live catalog. Last updated 2026-06-08.
+Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with its live catalog. Last updated 2026-06-15.
 
 ## Contents
 
@@ -143,26 +143,26 @@ Top models ranked by benchmark score. See the [live leaderboard](https://whatstr
 
 | Rank | Model | Provider | Score |
 | --- | --- | --- | --- |
-| 1 | Claude Mythos Preview | Anthropic | 99 |
-| 2 | Claude Opus 4.8 | Anthropic | 95 |
-| 3 | Gemini 3.1 Pro | Google | 92 |
-| 4 | GPT-5.5 | OpenAI | 91 |
-| 5 | Qwen3.7 Max | Alibaba | 91 |
-| 6 | GPT-5.4 Pro | OpenAI | 91 |
-| 7 | Gemini 3 Pro Deep Think | Google | 90 |
-| 8 | Grok 4.1 | xAI | 90 |
-| 9 | GPT-5.4 | OpenAI | 89 |
-| 10 | Claude Opus 4.6 | Anthropic | 87 |
-| 11 | Gemini 3.5 Flash | Google | 87 |
-| 12 | DeepSeek V4 Pro (Max) | DeepSeek | 87 |
-| 13 | GPT-5.3 Codex | OpenAI | 86 |
-| 14 | Claude Opus 4.7 (Adaptive) | Anthropic | 85 |
-| 15 | Kimi K2.6 | Moonshot AI | 84 |
-| 16 | Claude Sonnet 4.6 | Anthropic | 83 |
-| 17 | DeepSeek V4 Pro (High) | DeepSeek | 83 |
-| 18 | o1-preview | OpenAI | 83 |
-| 19 | GLM-5.1 | Z.AI | 82 |
-| 20 | Gemini 3 Pro | Google | 81 |
+| 1 | Claude Opus 4.6 (Thinking) | Anthropic | 1506 |
+| 2 | Gemini 3.1 Pro | Google | 1505 |
+| 3 | Claude Opus 4.6 | Anthropic | 1490 |
+| 4 | Gemini 3 Pro | Google | 1486 |
+| 5 | Grok-4.1 (Thinking) | xAI | 1475 |
+| 6 | GPT-5.1 High | OpenAI | 1457 |
+| 7 | Gemini 2.5 Pro | Google | 1446 |
+| 8 | DeepSeek-R1-0528 | DeepSeek | 1418 |
+| 9 | Gemini 2.5 Flash | Google | 1418 |
+| 10 | GPT-5 (Standard) | OpenAI | 1413 |
+| 11 | o3 | OpenAI | 1409 |
+| 12 | ChatGPT-4o | OpenAI | 1404 |
+| 13 | Grok 3 | xAI | 1398 |
+| 14 | Llama 4 Maverick | Meta | 1394 |
+| 15 | GPT-4.5 | OpenAI | 1394 |
+| 16 | DeepSeek V3 | DeepSeek | 1367 |
+| 17 | GPT-4.1 | OpenAI | 1365 |
+| 18 | Claude Sonnet 4.6 | Anthropic | 1355 |
+| 19 | Llama 4 Scout | Meta | 1350 |
+| 20 | Claude Haiku 4.5 | Anthropic | 1320 |
 
 ## Head-to-Head Comparisons
 
