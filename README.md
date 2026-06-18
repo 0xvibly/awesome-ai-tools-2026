@@ -69,6 +69,7 @@ Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with 
 - [Replicate](https://replicate.com) - Run ML models in the cloud.
 - [Stripe](https://stripe.com) - Payment infrastructure.
 - [Supabase](https://supabase.com) - Open source Firebase alternative.
+- [AI for Database](https://aifordatabase.com) - Talk to any database in plain English. Natural language queries, self-refreshing dashboards, and automated workflows — no SQL needed.
 - [Together AI](https://together.ai) - Open source model cloud.
 - [v0](https://v0.dev) - AI UI generation by Vercel.
 - [Vercel](https://vercel.com) - Frontend cloud platform.
