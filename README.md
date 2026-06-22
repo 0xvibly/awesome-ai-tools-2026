@@ -2,7 +2,7 @@
 
 > A curated list of the best AI tools, models, and resources in 2026.
 
-Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with its live catalog. Last updated 2026-06-15.
+Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with its live catalog. Last updated 2026-06-22.
 
 ## Contents
 
@@ -25,9 +25,7 @@ Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with 
 - [Claude](https://claude.ai) - AI assistant by Anthropic.
 - [DeepSeek](https://deepseek.com) - Cost-efficient AI models.
 - [Gemini](https://gemini.google.com) - AI assistant by Google.
-- [GPT-5](https://openai.com) - OpenAI flagship model.
 - [Grok](https://x.ai) - XAI language model.
-- [Llama](https://llama.meta.com) - Meta open source LLM.
 - [Mistral](https://mistral.ai) - European open AI models.
 - [Perplexity](https://www.perplexity.ai) - AI-powered answer engine.
 - [Poe](https://poe.com) - Multi-model AI chat platform.
@@ -64,6 +62,7 @@ Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with 
 - [Lovable](https://lovable.dev) - AI app builder for non-coders.
 - [Netlify](https://netlify.com) - Web development platform.
 - [Ollama](https://ollama.com) - Run LLMs locally.
+- [OpenAI](https://openai.com) - AI research company.
 - [OpenRouter](https://openrouter.ai) - Unified AI model API.
 - [Pinecone](https://pinecone.io) - Vector database.
 - [Replicate](https://replicate.com) - Run ML models in the cloud.
@@ -143,26 +142,26 @@ Top models ranked by benchmark score. See the [live leaderboard](https://whatstr
 
 | Rank | Model | Provider | Score |
 | --- | --- | --- | --- |
-| 1 | Claude Opus 4.6 (Thinking) | Anthropic | 1506 |
-| 2 | Gemini 3.1 Pro | Google | 1505 |
-| 3 | Claude Opus 4.6 | Anthropic | 1490 |
-| 4 | Gemini 3 Pro | Google | 1486 |
-| 5 | Grok-4.1 (Thinking) | xAI | 1475 |
-| 6 | GPT-5.1 High | OpenAI | 1457 |
-| 7 | Gemini 2.5 Pro | Google | 1446 |
-| 8 | DeepSeek-R1-0528 | DeepSeek | 1418 |
-| 9 | Gemini 2.5 Flash | Google | 1418 |
-| 10 | GPT-5 (Standard) | OpenAI | 1413 |
-| 11 | o3 | OpenAI | 1409 |
-| 12 | ChatGPT-4o | OpenAI | 1404 |
-| 13 | Grok 3 | xAI | 1398 |
-| 14 | Llama 4 Maverick | Meta | 1394 |
-| 15 | GPT-4.5 | OpenAI | 1394 |
-| 16 | DeepSeek V3 | DeepSeek | 1367 |
-| 17 | GPT-4.1 | OpenAI | 1365 |
-| 18 | Claude Sonnet 4.6 | Anthropic | 1355 |
-| 19 | Llama 4 Scout | Meta | 1350 |
-| 20 | Claude Haiku 4.5 | Anthropic | 1320 |
+| 1 | DeepSeek V4 Flash | DeepSeek | 4935 |
+| 2 | MiMo-V2.5 | Xiaomi | 3942 |
+| 3 | MiniMax M3 | MiniMax | 3772 |
+| 4 | Hy3 preview | tencent | 3627 |
+| 5 | Owl Alpha | OpenRouter | 2562 |
+| 6 | DeepSeek V4 Pro | DeepSeek | 2534 |
+| 7 | Claude Opus 4.7 | Anthropic | 2525 |
+| 8 | Claude Opus 4.8 | Anthropic | 1693 |
+| 9 | Claude Sonnet 4.6 | Anthropic | 1537 |
+| 10 | GLM 5.2 | Z.ai | 1266 |
+| 11 | GPT-5.5 | OpenAI | 996 |
+| 12 | GLM 5.1 | Z.ai | 993 |
+| 13 | DeepSeek V3.2 | DeepSeek | 989 |
+| 14 | Gemini 3 Flash Preview | Google | 944 |
+| 15 | Step 3.7 Flash | stepfun | 886 |
+| 16 | Gemini 2.5 Flash Lite | Google | 680 |
+| 17 | Nemotron 3 Ultra (free) | Nvidia | 655 |
+| 18 | Gemini 2.5 Flash | Google | 621 |
+| 19 | Nex-N2-Pro (free) | nex-agi | 583 |
+| 20 | Kimi K2.6 | moonshotai | 579 |
 
 ## Head-to-Head Comparisons
 
