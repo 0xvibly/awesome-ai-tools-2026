@@ -21,6 +21,7 @@ Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with 
 ## Chat & Assistants
 
 - [Character.ai](https://character.ai) - AI character conversations.
+- [Auferet](https://auferet.com) - AI game master for text adventures and tabletop RPGs that remembers your story and reads your uploaded lore.
 - [ChatGPT](https://chat.openai.com) - AI chat assistant by OpenAI.
 - [Claude](https://claude.ai) - AI assistant by Anthropic.
 - [DeepSeek](https://deepseek.com) - Cost-efficient AI models.
