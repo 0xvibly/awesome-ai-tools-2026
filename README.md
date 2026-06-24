@@ -123,6 +123,7 @@ Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with 
 - [Otter.ai](https://otter.ai) - AI meeting transcription.
 - [PlayHT](https://play.ht) - AI voice generation.
 - [Raycast](https://raycast.com) - Productivity launcher.
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app for focused context retrieval from files, webpages, recordings, emails, messages, images, and notes.
 - [Suno](https://suno.com) - AI music generation.
 - [Tome](https://tome.app) - AI storytelling and presentations.
 - [Udio](https://udio.com) - AI music creation.
