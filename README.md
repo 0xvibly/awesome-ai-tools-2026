@@ -90,6 +90,7 @@ Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with 
 
 - [Descript](https://www.descript.com) - AI video and audio editing.
 - [HeyGen](https://www.heygen.com) - AI video avatars for business.
+- [ImagineClip](https://imagineclip.com) - AI video generator for avatar clips, stylized scenes, and social-ready videos.
 - [Kling](https://klingai.com) - AI video by Kuaishou.
 - [Pika](https://pika.art) - AI video generation made simple.
 - [Runway](https://runway.com) - AI creative tools for video.
