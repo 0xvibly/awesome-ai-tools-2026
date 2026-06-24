@@ -20,6 +20,7 @@ Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with 
 
 ## Chat & Assistants
 
+- [Auferet](https://auferet.com) - Free AI RPG with a game master that remembers your world and your uploaded lore.
 - [Character.ai](https://character.ai) - AI character conversations.
 - [ChatGPT](https://chat.openai.com) - AI chat assistant by OpenAI.
 - [Claude](https://claude.ai) - AI assistant by Anthropic.
