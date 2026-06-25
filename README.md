@@ -81,6 +81,7 @@ Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with 
 - [Canva AI](https://www.canva.com) - AI-powered design platform.
 - [DALL-E](https://openai.com/dall-e) - AI image generation by OpenAI.
 - [Flux](https://blackforestlabs.ai) - Next-gen open image model.
+- [HairWow](https://www.gohairwow.com) - AI hairstyle try-on for previewing haircuts, colors, and beard styles from a photo.
 - [Ideogram](https://ideogram.ai) - AI image generation with text rendering.
 - [Leonardo](https://leonardo.ai) - AI-powered creative suite.
 - [Midjourney](https://www.midjourney.com) - AI image generation.
