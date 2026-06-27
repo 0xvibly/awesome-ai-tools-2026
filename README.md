@@ -85,6 +85,7 @@ Maintained by [whatstrending.ai](https://whatstrending.ai) and auto-synced with 
 - [Leonardo](https://leonardo.ai) - AI-powered creative suite.
 - [Midjourney](https://www.midjourney.com) - AI image generation.
 - [Stable Diffusion](https://stability.ai) - Open source image generation.
+- [Seedream AI Studio](https://seedream4.video/) - ByteDance multi-model platform (Seedream 5.0/4.5/4.0), ranked #1 in AI Image Arena, supports up to 10 reference images and Kling 2.1 video generation. Free tier available.
 
 ## Video Generation
 
